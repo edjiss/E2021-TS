@@ -4,6 +4,10 @@ pkg/
 *.pyc
 *.swp
 *~
+
+#credentials
+*.json
+
 .vscode/
 .vs/
 .idea
